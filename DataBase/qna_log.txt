@@ -1,0 +1,36 @@
+
+Ques : A car starts from rest and accelerates uniformly over a time of 5.21 seconds for a distance of 110 m. Determine the acceleration of the car. 
+Ans : The acceleration of the car is 21.4 m/s^2.
+Ques : what is computer science 
+Ans : Computer science is the study of computers and their applications.
+Ques : what is ai mention its importance 
+Ans : AI is a branch of computer science that deals with the creation of intelligent agents, which are systems that can reason, learn, and act autonomously. AI is important because it has the potential to help us solve a variety of complex problems, from improving healthcare to reducing traffic congestion.
+Ques : machine learning 
+Ans : Machine learning is a branch of AI that deals with the creation of algorithms that can learn from data and improve their performance over time. Machine learning is important because it allows us to create systems that can automatically improve their performance without the need for human intervention.
+Ques : different ml algorithms 
+Ans : There are a variety of different machine learning algorithms, including decision trees, support vector machines, and neural networks.
+Ques : mention all the algorithms 
+Ans : There are a variety of different machine learning algorithms, including decision trees, support vector machines, and neural networks.
+Ques : data science 
+Ans : Data science is the study of data. It involves using techniques from statistics and computer science to extract knowledge and insights from data. Data science is important because it allows us to make better decisions by understanding data.
+Ques : important skills required to develop a strong ai 
+Ans : Some important skills that are required to develop strong AI include:
+
+- Machine learning
+- Data mining
+- Natural language processing
+- Pattern recognition
+- Robotics
+- Computer vision
+Ques : what is pattern recognition 
+Ans : Pattern recognition is the process of identifying patterns in data. It is a key component of machine learning, as it allows algorithms to learn from data and improve their performance over time.
+Ques : robotics 
+Ans : Robotics is the branch of AI that deals with the design and implementation of robots. Robotics is important because it allows us to create machines that can autonomously perform tasks that are difficult or dangerous for humans to do.
+Ques : which algorithm is used for facebook face recognition 
+Ans : The algorithm used for Facebook's face recognition is a deep learning algorithm.
+Ques : explain its working 
+Ans : The algorithm used for Facebook's face recognition is a deep learning algorithm. Deep learning is a type of machine learning that uses algorithms to learn from data. The algorithm looks at a lot of data (pictures of faces) and tries to find patterns. When it sees a new picture, it uses the patterns it has learned to try to identify the person in the picture.
+Ques : & C:/Users/Sneha/AppData/Local/Programs/Python/Python310/python.exe c:/Users/Sneha/OneDrive/Desktop/Drone/Drone.py 
+Ans : The algorithm used for Facebook's face recognition is a deep learning algorithm. Deep learning is a type of machine learning that uses algorithms to learn from data. The algorithm looks at a lot of data (pictures of faces) and tries to find patterns. When it sees a new picture, it uses the patterns it has learned to try to identify the person in the picture.
+Ques : Who wrote the book What is the Name? 
+Ans : The book was written by J.D. Salinger.
