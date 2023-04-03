@@ -14,11 +14,13 @@ Features:
 ~ easy to understand
 
 Press Start
+
 ![Screenshot (39)](https://user-images.githubusercontent.com/88973408/229483308-9a585cea-5b2c-444e-b038-62d4ff1f869f.png)
 
-Allow Microphone
+Allow access to your microphone
 
 ![Screenshot (40)](https://user-images.githubusercontent.com/88973408/229483502-66ddb061-5972-457b-b536-0d5017afd053.png)
 
 Start Speaking
+
 ![Screenshot (41)](https://user-images.githubusercontent.com/88973408/229483560-a7e460c8-fc61-4181-8ecc-a0f857d76816.png)
